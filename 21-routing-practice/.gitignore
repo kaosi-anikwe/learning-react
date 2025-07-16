@@ -33,3 +33,5 @@ coverage/
 package-lock.json
 yarn.lock
 .pnpm-debug.log
+
+events.json
