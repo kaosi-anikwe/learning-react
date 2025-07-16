@@ -33,3 +33,10 @@ coverage/
 package-lock.json
 yarn.lock
 .pnpm-debug.log
+
+# Firebase
+.firebase/
+firebase-debug.log
+.firebaserc
+firebase.json
+firebase-messaging-sw.js
