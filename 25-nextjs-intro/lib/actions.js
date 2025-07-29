@@ -33,5 +33,5 @@ export async function shareMeal(prevState, formData) {
   }
 
   await saveMeal(meal);
-  redirect("/");
+  redirect("/meals");
 }
